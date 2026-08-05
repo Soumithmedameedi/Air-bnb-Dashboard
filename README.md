@@ -1,5 +1,7 @@
 # Air-bnb-Dashboard
-Built a Global Airbnb Performance Dashboard using Power BI to analyze listings, customer ratings, pricing trends, and market share across major cities.
+An end-to-end Power BI dashboard project explained step by step on my YouTube channel (Mansi G.). This project focuses on real analytical thinking like data modeling, DAX, Pareto analysis, seasonality, pricing, and trust insights. Teaching not just how to build dashboards, but why each decision matters.
+
+DOWNLOAD DATASET FROM HERE - https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
 Key Insights:
 ✔ Paris, NYC & Sydney dominate Airbnb market share
